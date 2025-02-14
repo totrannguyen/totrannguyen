@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hello there
 
-<!--
-**totrannguyen/totrannguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tran - Data Scientist with a passion for tackling real-world challenges through data-driven solutions
 
-Here are some ideas to get you started:
+- Querying, analyzing, and visualizing data
+- Developing machine learning models for predictions and recommendation systems
+- Implementing natural language processing techniques
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Projects
+
+Check out my portfolio, where I highlight my [projects](https://github.com/Tochanne/Project/blob/main/Porfolio.md)
+
+### 🛠️ Tech Stack
+
+- Python, SQL, Scikitlearn, PySpark
+
+### 🙏 Connect with me
+
+Let's work together to dive deeper into the world of Data Science 🍀
+- [Linkedin](https://www.linkedin.com/in/nguyennhattotran/)
+- [Gmail](totran.nguyen1509@gmail.com)
