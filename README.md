@@ -8,7 +8,7 @@ I'm Tran - Data Scientist with a passion for tackling real-world challenges thro
 
 ### 📚 Projects
 
-Check out my portfolio, where I highlight my [projects](https://github.com/Tochanne/Project/blob/main/Porfolio.md)
+Check out my portfolio, where I highlight my [projects](https://github.com/totrannguyen/Projects/blob/main/README.md)
 
 ### 🛠️ Tech Stack
 
