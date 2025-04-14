@@ -12,7 +12,7 @@ Check out my portfolio, where I highlight my [projects](https://github.com/totra
 
 ### 🛠️ Tech Stack
 
-- Python, SQL, Scikitlearn, PySpark
+- Python, SQL, Scikitlearn, PySpark, Streamlit
 
 ### 🙏 Connect with me
 
