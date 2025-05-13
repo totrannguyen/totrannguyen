@@ -1,6 +1,6 @@
 ## 👋 Hello there
 
-I'm Tran - Data Scientist with a passion for tackling real-world challenges through data-driven solutions
+I'm Tran - With a passion for tackling real-world challenges through data-driven solutions
 
 - Querying, analyzing, and visualizing data
 - Developing machine learning models for predictions and recommendation systems
