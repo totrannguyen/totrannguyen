@@ -13,6 +13,7 @@ Check out my portfolio, where I highlight my [projects](https://github.com/totra
 ### 🛠️ Tech Stack
 
 - Python, SQL, Scikitlearn, PySpark, Streamlit
+- Power BI, Looker Studio
 
 ### 🙏 Connect with me
 
